@@ -19,8 +19,7 @@ UCATEC - Universidad de Ciencias Administrativas y Tecnológicas, Cochabamba, Bo
 Agosto 2019 - Actualidad
 
 - Promedio General: 4.0/5.0
-- Actividades y Sociedades: Club de Programación, Grupo de Investigación en Sistemas, Representante Estudiantil
-
+- Actividades y Sociedades: Club de Programación, Grupo de Investigación en Sistema.
 ---
 
 ## Habilidades Técnicas
@@ -46,7 +45,7 @@ Agosto 2019 - Actualidad
 **Idiomas:**
 
 - Español: Nativo
-- Inglés: Intermedio
+- Inglés: Medio
 
 ---
 
@@ -54,7 +53,7 @@ Agosto 2019 - Actualidad
 
 **Desarrollador Web Interno**  
 UCATEC, Cochabamba, Bolivia  
-Junio 2023 - Actualidad
+Junio 2024 - Actualidad
 
 - Colaboré en el desarrollo y mantenimiento de sitios web utilizando HTML, CSS y JavaScript.
 - Implementé funcionalidades en PHP para mejorar la experiencia del usuario en aplicaciones web.
